@@ -1,0 +1,232 @@
+* {
+    padding: 0;
+    margin: 0;
+     /* background: linear-gradient(135deg, #351C39 0%, #030414 100%); */
+     background-color: purple;
+           font-family: "Open Sans", sans-serif;
+    @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+}
+
+.first-box {
+    height: 715px;
+    /* padding: 15px 60px 15px 60px; */
+    border: 2px solid black; 
+    
+}
+
+.img1 {
+    gap: 4px;
+    margin-left: 50px;
+}
+
+.first-text {
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 16px;
+    font-weight: 400;
+    padding-top: 5px;
+    padding-right: 330px;
+}
+
+.first {
+    display: flex;
+    margin-top: 20px;
+
+}
+
+.nav-bar {
+    display: flex;
+}
+
+.nav-child {
+    color: white;
+    font-family: sora;
+    font-size: 20px;
+    padding-right: 30px;
+}
+
+.watch-demo {
+    border: 1px solid #174993;
+    width: 156px;
+    height: 22px;
+    gap: 7px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 20px;
+    
+}
+.get-started  {
+     /* border: 1px solid; */
+    width: 156px;
+    height: 22px;
+    gap: 7px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 20px;
+    border-radius: 20px;
+    background-color: #174993;
+}
+.container1 {
+    height: 269px;
+    width: 591px;
+    /* border: 2px solid black; */
+    margin-left: 50px;
+    margin-top: 180px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+.container1-text {
+    font-weight: 600;
+    font-size: 62px;
+    padding-right: 50px;
+    font-family:  "Orbitron", sans-serif;
+    color: white;
+}
+.container1-p {
+    font-size: 16px;
+    padding-right: 50px;
+    color: white;
+}
+.container1-button {
+    display: flex;
+}
+.contain1 {
+    display: flex;
+}
+.img2 {
+    margin-top: 50px;
+    height: 500px;
+}
+.second-box {
+    display: flex;
+    background-color: purple;
+}
+.secondbox-text {
+    height: 267px;
+    width: 596px;
+    /* border: 2px solid; */
+    margin-top: 180px;
+    margin-left: 50px;
+}
+.text2-h2 {
+    font-weight: 600;
+    font-size: 36px;
+    color: white;
+    padding-bottom: 30px;
+}
+.text2-h3 {
+    font-weight: 600;
+    color: white;
+    font-size: 24px;
+}
+.text2-p {
+    color: white;
+    font-size: 16px;
+}
+.img3 {
+    margin-left: 100px;
+    background: transparent;
+    max-width: 420px;
+}
+.img4 {
+    margin-left: 150px;
+}
+.underf {
+    font-weight: 600;
+}
+.cases {
+    font-weight: 600;
+    font-size: 36px;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+.AI {
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: white;
+    padding-bottom: 30px;
+}
+.sets {
+    display: grid;
+    grid-template-rows: 230px;
+    grid-template-columns: repeat(4, 300px);
+    /* grid-row-gap: 50px; */
+    grid-column-gap: 20px;
+}
+.team {
+    border: 2px solid;
+    border-radius: 20px;
+    
+}
+.img5 {
+    margin: 15px;
+}
+.teamh2 {
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    height: 45px;
+    border-bottom: 2px solid;
+    gap: 10px;
+    padding-left: 15px;
+}
+.teamp {
+    color: #ffffff;
+    padding: 15px;
+    font-size: 14px;
+}
+.team-LM {
+    color: #174993;
+}
+.price {
+    font-size: 36px;
+    font-weight: 600;
+    color: #ffffff;
+    text-align: center;
+}
+.set{
+    display: grid;
+    grid-template-columns: 420px 420px 420px;
+    grid-template-rows: 380px;
+    grid-column-gap: 20px;
+    border-radius: 20px;
+}
+.section {
+    border: 2px solid;
+    border-radius: 20px;
+}
+.sectionh3 {
+    padding-top: 40px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #ffffff;
+    padding-left: 20px;
+}
+.dollar {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 36px;
+    padding-left: 20px;
+    padding-top: 15px;
+}
+.month {
+    font-size: 14px;
+    color: #3F3B3E;
+}
+.section-text {
+    color: white;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.start {
+    border: 2px solid #174993;
+    margin: 7px;
+    height: 30px;
+    text-align: center;
+    padding-top: 10px;
+    color: #ffffff;
+    border-radius: 20px;
+    margin-top: 20px;
+}
